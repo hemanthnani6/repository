@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New (User Table)</name>
+        <parameter_screen/>
+        <query_condition table="x_650586_search_en_user_table">sys_idSTARTSWITH{{User Table sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{User Table sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-01 06:58:25</sys_created_on>
+        <sys_id>1e8fdb901b243010aff9c991604bcbce</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New (User Table)</sys_name>
+        <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_1e8fdb901b243010aff9c991604bcbce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-01 06:58:25</sys_updated_on>
+        <table>x_650586_search_en_user_table</table>
+        <template>number={{User Table number}}^service_you_need={{User Table service_you_need}}^street_in_which_the_service_required={{User Table street_in_which_the_service_required}}^your_name={{User Table your_name}}^your_phone_number={{User Table your_phone_number}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=1e8fdb901b243010aff9c991604bcbce"/>
+</record_update>

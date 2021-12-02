@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>828fdb901b243010aff9c991604bcb6b</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles>admin</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-01 06:58:25</sys_created_on>
+        <sys_id>ca8fdb901b243010aff9c991604bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service table</sys_name>
+        <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+        <sys_update_name>sys_sg_icon_section_ca8fdb901b243010aff9c991604bcb9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-01 06:58:25</sys_updated_on>
+        <table/>
+        <title>Service table</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">eb2716211be27010aff9c991604bcb4c</sp_column>
+        <sp_widget display_value="Report">e41aa2d29f0222008252baac757fcfce</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-12 09:00:45</sys_created_on>
+        <sys_id>924792211be27010aff9c991604bcbfc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+        <sys_update_name>sp_instance_924792211be27010aff9c991604bcbfc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-12 09:04:45</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"report_id": {
+		"value": "95478aed1ba27010aff9c991604bcb2e",
+		"displayValue": "DEMO Report"
+	},
+	"show_title": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=924792211be27010aff9c991604bcbfc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</application>
+        <file_path/>
+        <instance_id>5caa964ddbc0b010e26fd7c8f49619a9</instance_id>
+        <instance_name>dev114636</instance_name>
+        <name>sp_instance_924792211be27010aff9c991604bcbfc</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;eb2716211be27010aff9c991604bcb4c&lt;/sp_column&gt;&lt;sp_widget display_value="Report"&gt;e41aa2d29f0222008252baac757fcfce&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-09-12 09:00:45&lt;/sys_created_on&gt;&lt;sys_id&gt;924792211be27010aff9c991604bcbfc&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Search Engine Application" source="x_650586_search_en"&gt;d0ab5f9c1be03010aff9c991604bcb8f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Search Engine Application"&gt;d0ab5f9c1be03010aff9c991604bcb8f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_924792211be27010aff9c991604bcbfc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-09-12 09:04:45&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"report_id": {
+		"value": "95478aed1ba27010aff9c991604bcb2e",
+		"displayValue": "DEMO Report"
+	},
+	"show_title": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=924792211be27010aff9c991604bcbfc"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-520397080</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1581cb671b013010aff9c991604bcb21</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-12 09:04:45</sys_created_on>
+        <sys_id>45385e211b267010aff9c991604bcb0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bd94075b70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-12 09:04:45</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>cd385e211e26701006942a98189c060b</update_guid>
+        <update_guid_history>cd385e211e26701006942a98189c060b:-520397080,d167d2ed5be27010c080cee1c34013f3:-298235824,6a47922100e270104de5a11e8a4457fe:-1225605631</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5fcfd6a91b267010aff9c991604bcb3b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-12 09:37:57</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>440aa41bfc2c4096b211abf02959c509</sys_id>
+        <sys_metadata>924792211be27010aff9c991604bcbfc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+        <sys_scope_delete display_value="">08501d6954eb450e82a1409c40557a84</sys_scope_delete>
+        <sys_update_name>sp_instance_924792211be27010aff9c991604bcbfc</sys_update_name>
+        <sys_update_version display_value="sp_instance_924792211be27010aff9c991604bcbfc">45385e211b267010aff9c991604bcb0c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-12 09:37:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

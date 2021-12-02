@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_650586_search_en_service_table" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_650586_search_en_service_table" element="NULL" name="x_650586_search_en_service_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece963d81b243010aff9c991604bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_id>a8e963d81b243010aff9c991604bcbc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>company_or_service_name</element>
+            <list_id display_value="x_650586_search_en_service_table" element="NULL" name="x_650586_search_en_service_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece963d81b243010aff9c991604bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_id>2ce963d81b243010aff9c991604bcbc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contact_number</element>
+            <list_id display_value="x_650586_search_en_service_table" element="NULL" name="x_650586_search_en_service_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece963d81b243010aff9c991604bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_id>ace963d81b243010aff9c991604bcbc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>locality_or_address</element>
+            <list_id display_value="x_650586_search_en_service_table" element="NULL" name="x_650586_search_en_service_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece963d81b243010aff9c991604bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_id>20e963d81b243010aff9c991604bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>service_closes_at</element>
+            <list_id display_value="x_650586_search_en_service_table" element="NULL" name="x_650586_search_en_service_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece963d81b243010aff9c991604bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_id>a0e963d81b243010aff9c991604bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>service_opens_at</element>
+            <list_id display_value="x_650586_search_en_service_table" element="NULL" name="x_650586_search_en_service_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece963d81b243010aff9c991604bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_id>24e963d81b243010aff9c991604bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>service_type</element>
+            <list_id display_value="x_650586_search_en_service_table" element="NULL" name="x_650586_search_en_service_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece963d81b243010aff9c991604bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_id>a4e963d81b243010aff9c991604bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_650586_search_en_service_table" element="NULL" name="x_650586_search_en_service_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece963d81b243010aff9c991604bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_id>28e963d81b243010aff9c991604bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>street_name</element>
+            <list_id display_value="x_650586_search_en_service_table" element="NULL" name="x_650586_search_en_service_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece963d81b243010aff9c991604bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_id>a8e963d81b243010aff9c991604bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user_name</element>
+            <list_id display_value="x_650586_search_en_service_table" element="NULL" name="x_650586_search_en_service_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ece963d81b243010aff9c991604bcbbf</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_id>2ce963d81b243010aff9c991604bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_650586_search_en_service_table</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 07:43:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ece963d81b243010aff9c991604bcbbf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_650586_search_en_service_table</sys_name>
+            <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+            <sys_update_name>sys_ui_list_x_650586_search_en_service_table_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 07:43:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

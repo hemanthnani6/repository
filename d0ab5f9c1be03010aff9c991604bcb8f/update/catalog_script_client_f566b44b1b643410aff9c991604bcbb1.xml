@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>true</applies_sc_task>
+        <applies_target_record>true</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="registering the service">309b3b241b207010aff9c991604bcb01</cat_item>
+        <cat_variable>IO:6896043c1b207010aff9c991604bcb1b</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>location selection</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+   if (isLoading || newValue == '') {
+      return;
+   }
+
+var a=g_form.getValue('locality_or_address');
+
+if(a=='Nellore')
+{
+g_form.removeOption('street','kp_street','KP Street');
+g_form.removeOption('street','kg_street','KG Street');
+g_form.removeOption('street','km_street','KM Street' );
+g_form.removeOption('street','sp_street','SP Street');
+g_form.removeOption('street','sg_street','SG Street');
+g_form.removeOption('street','sm_street','SM Street');
+g_form.addOption('street','pkr_street','PKR Street');
+g_form.addOption('street','pp_street','PP Street');
+g_form.addOption('street','pkl_street','PK Street' );
+g_form.addOption('street','phr_street','PHR Street');
+
+}
+	if(a=='Tirupathi')
+{
+g_form.removeOption('street','pkr_street','PKR Street');
+g_form.removeOption('street','pp_street','PP Street');
+g_form.removeOption('street','pkl_street','PK Street' );
+g_form.removeOption('street','phr_street','PHR Street');
+g_form.removeOption('street','sp_street','SP Street');
+g_form.removeOption('street','sg_street','SG Street');
+g_form.removeOption('street','sm_street','SM Street');
+g_form.addOption('street','kp_street','KP Street');
+g_form.addOption('street','kg_street','KG Street');
+g_form.addOption('street','km_street','KM Street');
+}
+	if(a=='Vijayawada')
+{
+g_form.removeOption('street','kp_street','KP Street');
+g_form.removeOption('street','kg_street','KG Street');
+g_form.removeOption('street','km_street','KM Street' );
+g_form.removeOption('street','pkr_street','PKR Street');
+g_form.removeOption('street','pp_street','PP Street');
+g_form.removeOption('street','pkl_street','PK Street' );
+g_form.removeOption('street','phr_street','PHR Street');
+g_form.addOption('street','sp_street','SP Street');
+g_form.addOption('street','sg_street','SG Street');
+g_form.addOption('street','sm_street','SM Street');
+}
+}
+
+   ]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-09 07:47:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f566b44b1b643410aff9c991604bcbb1</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>location selection</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+        <sys_update_name>catalog_script_client_f566b44b1b643410aff9c991604bcbb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-09 09:22:33</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

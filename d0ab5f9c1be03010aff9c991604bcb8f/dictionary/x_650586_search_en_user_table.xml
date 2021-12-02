@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="service search" max_length="40" name="x_650586_search_en_user_table" sizeclass="59" type="collection">
+        <element label="Demo" mandatory="true" max_length="32" name="demo" reference="incident" type="reference"/>
+        <element choice="1" label="Location" max_length="40" name="location" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Nellore" value="Nellore"/>
+                <element inactive_on_update="false" label="Tirupathi" value="Tirupathi"/>
+                <element inactive_on_update="false" label="Vijayawada" value="Vijayawada"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Service Searched" mandatory="true" max_length="40" name="service_you_need" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ATM" value="ATM"/>
+                <element inactive_on_update="false" label="Hotel" value="Hotel"/>
+                <element inactive_on_update="false" label="Medical Shop" value="Medical Shop"/>
+            </choice>
+        </element>
+        <element label="Street Name" mandatory="true" max_length="40" name="street_name" type="string"/>
+        <element default="0" label="user name" max_length="40" name="user_name" type="string"/>
+        <index name="index">
+            <element name="demo"/>
+        </index>
+    </element>
+</database>

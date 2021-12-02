@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Service register table" max_length="40" name="x_650586_search_en_service_table" sizeclass="26" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Company or Service Name" mandatory="true" max_length="40" name="company_or_service_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="location" mandatory="true" max_length="100" name="locality_or_address" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Nellore" value="Nellore"/>
+                <element inactive_on_update="false" label="Tirupathi" value="Tirupathi"/>
+                <element inactive_on_update="false" label="Vijayawada" value="Vijayawada"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Registered Person" max_length="40" name="registered_person" type="string"/>
+        <element label="Service Closes at" mandatory="true" max_length="40" name="service_closes_at" type="string"/>
+        <element label="Service Opens at" mandatory="true" max_length="40" name="service_opens_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="100" name="short_description" type="string"/>
+        <element choice="1" default="40" label="Street" mandatory="true" max_length="40" name="street" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Service Type " mandatory="true" max_length="40" name="street_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ATM" value="ATM"/>
+                <element inactive_on_update="false" label="Hotel" value="Hotel"/>
+                <element inactive_on_update="false" label="Medical Shop" value="Medical Shop"/>
+            </choice>
+        </element>
+    </element>
+</database>
