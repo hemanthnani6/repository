@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="user_name" label="user name" language="en" table="x_650586_search_en_user_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <help/>
+            <hint/>
+            <label>user name</label>
+            <language>en</language>
+            <name>x_650586_search_en_user_table</name>
+            <plural>user names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-08 16:13:40</sys_created_on>
+            <sys_id>37b1213a1b2cf010aff9c991604bcb3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>user name</sys_name>
+            <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+            <sys_update_name>sys_documentation_x_650586_search_en_user_table_user_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-08 16:13:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

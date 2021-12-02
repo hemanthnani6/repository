@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="interaction_queue" label="Interaction queue" language="en" table="chat_survey">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>interaction_queue</element>
+            <help/>
+            <hint>Field that stores associated Interaction Queue</hint>
+            <label>Interaction queue</label>
+            <language>en</language>
+            <name>chat_survey</name>
+            <plural>Interaction queues</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-16 14:51:38</sys_created_on>
+            <sys_id>f6a420c51bc27010aff9c991604bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Interaction queue</sys_name>
+            <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+            <sys_update_name>sys_documentation_chat_survey_interaction_queue_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-16 14:51:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

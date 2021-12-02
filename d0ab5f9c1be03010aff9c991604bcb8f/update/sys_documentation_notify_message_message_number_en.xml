@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="message_number" label="Message number" language="en" table="notify_message">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>message_number</element>
+            <help/>
+            <hint/>
+            <label>Message number</label>
+            <language>en</language>
+            <name>notify_message</name>
+            <plural>Message numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-16 15:01:23</sys_created_on>
+            <sys_id>a5e6e8c91b067010aff9c991604bcbc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Message number</sys_name>
+            <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+            <sys_update_name>sys_documentation_notify_message_message_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-16 15:01:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

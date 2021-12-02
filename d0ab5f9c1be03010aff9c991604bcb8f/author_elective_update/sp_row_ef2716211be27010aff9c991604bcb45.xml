@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="demo - Container 1">ff07d2ed1be27010aff9c991604bcb6c</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-12 09:00:17</sys_created_on>
+        <sys_id>ef2716211be27010aff9c991604bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+        <sys_update_name>sp_row_ef2716211be27010aff9c991604bcb45</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-12 09:00:17</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</application>
+        <file_path/>
+        <instance_id>5caa964ddbc0b010e26fd7c8f49619a9</instance_id>
+        <instance_name>dev114636</instance_name>
+        <name>sp_row_ef2716211be27010aff9c991604bcb45</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="demo - Container 1">ff07d2ed1be27010aff9c991604bcb6c</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-12 09:00:17</sys_created_on><sys_id>ef2716211be27010aff9c991604bcb45</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package><sys_policy/><sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope><sys_update_name>sp_row_ef2716211be27010aff9c991604bcb45</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-12 09:00:17</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>901298835</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>1581cb671b013010aff9c991604bcb21</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-12 09:00:17</sys_created_on>
+        <sys_id>632716211be27010aff9c991604bcb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bd93c5e070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-12 09:00:17</sys_updated_on>
+        <type>Row</type>
+        <update_guid>ab271621c7e2701056cd85a1ab953947</update_guid>
+        <update_guid_history>ab271621c7e2701056cd85a1ab953947:901298835</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">9fcfd6a91b267010aff9c991604bcb45</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-12 09:37:57</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>25bad033df5047efb08734e3227d8d61</sys_id>
+        <sys_metadata>ef2716211be27010aff9c991604bcb45</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Search Engine Application" source="x_650586_search_en">d0ab5f9c1be03010aff9c991604bcb8f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Search Engine Application">d0ab5f9c1be03010aff9c991604bcb8f</sys_scope>
+        <sys_scope_delete display_value="">08501d6954eb450e82a1409c40557a84</sys_scope_delete>
+        <sys_update_name>sp_row_ef2716211be27010aff9c991604bcb45</sys_update_name>
+        <sys_update_version display_value="sp_row_ef2716211be27010aff9c991604bcb45">632716211be27010aff9c991604bcb48</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-12 09:37:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
